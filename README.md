@@ -1,7 +1,8 @@
 # ML-Researchpapaer-Analysis:
 
-* [UnifiedQA](https://arxiv.org/abs/2005.00700)
-* [MPNET](https://arxiv.org/pdf/2004.09297.pdf) 
+* [RoFormer](https://arxiv.org/pdf/2104.09864v1.pdf): Gives better performance when long text sequence
+* [UnifiedQA](https://arxiv.org/abs/2005.00700): A single model that works on various kinf of QA tasks 
+* [MPNET](https://arxiv.org/pdf/2004.09297.pdf)
 * [SPECTER](https://arxiv.org/pdf/2004.07180.pdf)
 * [TLDR](https://arxiv.org/pdf/2004.15011.pdf)
 * [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/pdf/2005.07683.pdf)
