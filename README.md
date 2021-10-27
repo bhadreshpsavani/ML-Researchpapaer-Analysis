@@ -1,5 +1,15 @@
 # ML-Researchpapaer-Analysis:
 
+
+## [Instance Segmentation](https://paperswithcode.com/task/instance-segmentation):
+
+Instance segmentation is the task of detecting and delineating each distinct object of interest appearing in an image.
+
+Paper Summaries:
+
+
+
+## General Papers:
 * [RoFormer](https://arxiv.org/pdf/2104.09864v1.pdf): Gives better performance when long text sequence
 * [UnifiedQA](https://arxiv.org/abs/2005.00700): A single model that works on various kinf of QA tasks 
 * [MPNET](https://arxiv.org/pdf/2004.09297.pdf)
@@ -12,9 +22,3 @@ Notes:
 * Sparsity induction is a widely used approach to reduce the memory footprint of neural networks atonly a small cost of accuracy. 
 * Pruning methods, which remove weights based on their importance,are a particularly simple and effective method for compressing models.
 * movement pruning, i.e., pruning approaches that consider the changes in weights duringfine-tuning. Movement pruning differs from magnitude pruning in that both weights with low and high values can be pruned if they shrink during training
-
-
-## [Instance Segmentation](https://paperswithcode.com/task/instance-segmentation):
-
-Instance segmentation is the task of detecting and delineating each distinct object of interest appearing in an image.
-Tasks:
