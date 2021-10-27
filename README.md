@@ -14,8 +14,7 @@ Notes:
 * movement pruning, i.e., pruning approaches that consider the changes in weights duringfine-tuning. Movement pruning differs from magnitude pruning in that both weights with low and high values can be pruned if they shrink during training
 
 
-## [Instance Segmentation](https://paperswithcode.com/task/instance-segmentation
-):
+## [Instance Segmentation](https://paperswithcode.com/task/instance-segmentation):
 
 Instance segmentation is the task of detecting and delineating each distinct object of interest appearing in an image.
 Tasks:
